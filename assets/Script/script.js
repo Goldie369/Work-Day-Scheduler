@@ -1,7 +1,7 @@
 var NowMoment = moment();
 var eDisplayMoment = document.getElementById('currentDay');
 eDisplayMoment.innerHTML = NowMoment.format('MMMM Do, YYYY');
-
+/* Adding a fuction */
 function temp(buttonClassName, textAreaClassName, keyName) {
     $(buttonClassName).on("click", function () {
         var textarea = $(textAreaClassName).val();
