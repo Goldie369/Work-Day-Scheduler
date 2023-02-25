@@ -43,3 +43,7 @@ https://github.com/othneildrew/Best-README-Template/blob/master/README.md
 https://www.npmjs.com/package/dayjs
 
 https://jqueryui.com/
+
+MIT License
+
+Copyright (c) 2023 Goldie Rizova
