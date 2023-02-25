@@ -1,3 +1,4 @@
+/* Adding a Body */
 body {
     font-family: 'Open Sans', sans-serif;
     font-size: 16px;
@@ -73,7 +74,7 @@ body {
   #currentDay {
     font-weight: bold;
   }
-  
+  /* Adding a footer */
   .footer {
     text-align: center;
     margin-top: 2em;

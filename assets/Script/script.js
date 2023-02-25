@@ -10,6 +10,8 @@ function temp(buttonClassName, textAreaClassName, keyName) {
     var textarea10 = localStorage.getItem(keyName);
     $(textAreaClassName).val(textarea10);
 }
+// Adding a DOM Elements //
+
 temp("#button-addon1", ".textarea-9", "data");
 temp("#button-addon2", ".textarea-10", "data10");
 temp("#button-addon3", ".textarea-11", "data11");
@@ -19,6 +21,11 @@ temp("#button-addon6", ".textarea-2", "data2");
 temp("#button-addon7", ".textarea-3", "data3");
 temp("#button-addon8", ".textarea-4", "data4");
 temp("#button-addon9", ".textarea-5", "data5");
+
+// The past time color is gray //
+// The present time is red //
+// The Future is green //
+
 
 var textbox = $(".textBox");
 
